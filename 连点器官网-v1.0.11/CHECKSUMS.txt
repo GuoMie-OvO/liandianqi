@@ -1,0 +1,2 @@
+SHA-256  clicker-v1.0.11.apk
+b3cbb664f3dc751ca727020022ddf12ae05dd7108b75890c93cb7840f6a3e6bf
